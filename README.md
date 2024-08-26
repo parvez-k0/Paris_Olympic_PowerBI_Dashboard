@@ -1,4 +1,4 @@
-# Paris_Olympic_PowerBI_Dashboard
+# Paris_Olympic_PowerBI_Dashboard and Only dashboarding has been done.
 
 There are screenshots are available here.
 
